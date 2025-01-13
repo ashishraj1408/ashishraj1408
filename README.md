@@ -32,9 +32,11 @@ I'm a passionate full-stack web developer with expertise in HTML, CSS, JavaScrip
 ---
 
 ## 🤝 Let's Connect
-- 📫 Email: [rajjashish1500@gmail.com](mailto:rajjashish1500@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ashish-raj-562137203/)
-- 📂 [GitHub](https://github.com/ashishraj1408)
+
+- [![Email](https://img.icons8.com/fluency/48/000000/gmail.png) Email](mailto:rajjashish1500@gmail.com)
+- [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png) LinkedIn](https://www.linkedin.com/in/ashish-raj-562137203/)
+- [![GitHub](https://img.icons8.com/fluency/48/000000/github.png) GitHub](https://github.com/ashishraj1408)
+
 
 ---
 
