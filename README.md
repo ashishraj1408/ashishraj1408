@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Ashish Raj 👋
 
-<!--
-**ashishraj1408/ashishraj1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack web developer with expertise in HTML, CSS, JavaScript, React.js, Node.js, and more. With 1+ years of experience as a front-end developer, I love tackling challenging projects and experimenting with new technologies. I'm also skilled in team management and enjoy sharing my knowledge through blog writing.
 
-Here are some ideas to get you started:
+## 💻 What I Do
+- ✔️ Aspiring to work as a programmer.
+- ✔️ Fast learner looking for interesting career opportunities in web development as a full-stack developer.
+- ✔️ Currently seeking opportunities as a MERN Stack developer to help me learn and grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+**Languages & Tools**:
+
+| Frontend | Backend | Tools & Frameworks |
+| --- | --- | --- |
+| ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js | ![Git](https://img.icons8.com/color/48/000000/git.png) Git |
+| ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS | ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js | ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) WordPress |
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB | ![Laravel](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-shadow-tal-revivo.png) Laravel |
+| ![React](https://img.icons8.com/color/48/000000/react-native.png) React.js | ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP | ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png) TailwindCSS |
+| ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap |  AntDesign | <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="48"> CodeIgniter |
+| ![Chart.js](https://img.icons8.com/color/48/000000/combo-chart.png) Chart.js | ![@mui/material](https://img.icons8.com/color/48/000000/material-ui.png) @mui/material |  |
+
+---
+
+**Soft Skills**:
+- Public Speaking, Leadership, Analytical Thinking, Team Management, Problem-Solving
+
+## 📈 GitHub Stats
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishraj1408&show_icons=true&hide_title=true)
+
+---
+
+## 🤝 Let's Connect
+- 📫 Email: [rajjashish1500@gmail.com](mailto:rajjashish1500@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ashish-raj-562137203/)
+- 📂 [GitHub](https://github.com/ashishraj1408)
+
+---
+
+## 📄 Resume Highlights
+**Education**:
+- **Bachelor of Engineering in Computer Science**, Aarupadai Veedu Institute of Technology, Chennai (2019 - 2023), 9.1 CGPA
+
+---
+**Experience**:
+- **Front End Developer** at Devout Growth Media (Nov 2024 - Present)
+- **Full Stack Developer** at Business Gateways International LLC (May 2023 - April 2024)
+- **Intern in Web Development** at Startupfloor.in (May 2022 - Oct 2022)
+- **Salesforce Virtual Internship** (April 2022 - June 2022)
+
+---
+**Projects**:
+- E-Commerce Website
+- Dashboard Application (React)
+- Hotel Management System
+- Bookstore Website
+
+---
+**Certifications**:
+- Microsoft Security, Compliance, and Identity
+- Microsoft Certified: Azure Data Fundamentals
+- AWS Machine Learning
+- IBM Machine Learning
+- Infosys Machine Learning
+- Hacker Rank (5 Star) in DSA using JAVA
+
+---
+
