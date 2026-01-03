@@ -52,6 +52,7 @@ I'm a passionate full-stack web developer with expertise in HTML, CSS, JavaScrip
 ---
 **Experience**:
 - **Full Stack Developer** at Ethos Pro Realtors (Jun 2025 - Present)
+- **Frontend Developer** at Hirola Info Tech (Jan 2025 - May 2025)
 - **Full Stack Developer** at Freelancer (May 2024 - Dec 2024)
 - **Full Stack Developer** at Business Gateways International LLC (May 2023 - April 2024)
 - **Intern in Web Development** at Startupfloor.in (May 2022 - Oct 2022)
