@@ -51,8 +51,8 @@ I'm a passionate full-stack web developer with expertise in HTML, CSS, JavaScrip
 
 ---
 **Experience**:
-- **Front End Developer** at Devout Growth Media (Nov 2024 - Present)
-- **Full Stack Developer** at Freelancer (May 2024 - Nov 2024)
+- **Full Stack Developer** at Ethos Pro Realtors (Jun 2025 - Present)
+- **Full Stack Developer** at Freelancer (May 2024 - Dec 2024)
 - **Full Stack Developer** at Business Gateways International LLC (May 2023 - April 2024)
 - **Intern in Web Development** at Startupfloor.in (May 2022 - Oct 2022)
 - **Salesforce Virtual Internship** (April 2022 - June 2022)
