@@ -62,10 +62,11 @@ Building scalable, production-grade web apps with clean architecture, reusable c
 
 ---
 **Projects**:
+- RealEstate CRM
 - E-Commerce Website
 - Dashboard Application (React)
 - Hotel Management System
-- Bookstore Website
+
 
 ---
 **Certifications**:
@@ -75,6 +76,7 @@ Building scalable, production-grade web apps with clean architecture, reusable c
 - IBM Machine Learning
 - Infosys Machine Learning
 - Hacker Rank (5 Star) in DSA using JAVA
+- Leetcode 300+ Problems Solved
 
 ---
 **Portfolio** :
