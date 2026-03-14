@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi , I'm Ashish Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
+<a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+%26+Algorithms;300%2B+LeetCode+Problems+Solved;MERN+Stack+Developer;Full+Stack+Web+Developer"></img></a>
+<!-- <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a> -->
      <hr/>
      <div style="display:flex">
     <p align="left" style="max-width:40%">
