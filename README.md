@@ -33,10 +33,7 @@ Building scalable, production-grade web apps with clean architecture, reusable c
 **Soft Skills**:
 - Public Speaking, Leadership, Analytical Thinking, Team Management, Problem-Solving
 
-## 📈 GitHub Stats
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishraj1408&show_icons=true&hide_title=true)
 
----
 
 ## 🤝 Let's Connect
 
